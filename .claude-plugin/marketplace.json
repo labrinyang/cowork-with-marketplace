@@ -1,25 +1,22 @@
 {
   "name": "cowork-with-marketplace",
-  "description": "Marketplace for the cowork-with plugin family — agile workflow integrations for Claude Code.",
   "owner": {
     "name": "labrinyang",
     "email": "labrinyang@gmail.com"
   },
+  "metadata": {
+    "description": "Agile workflow integrations for Claude Code",
+    "version": "1.0.0"
+  },
   "plugins": [
     {
       "name": "cowork-with",
-      "description": "Jira agile workflow plugin. Issue tracking, sprint management, and automated task lifecycle via Atlassian acli CLI.",
-      "version": "1.0.0",
-      "author": {
-        "name": "labrinyang",
-        "email": "labrinyang@gmail.com"
-      },
       "source": {
         "source": "url",
-        "url": "https://github.com/labrinyang/cowork-with"
+        "url": "https://github.com/labrinyang/cowork-with.git"
       },
-      "category": "productivity",
-      "homepage": "https://github.com/labrinyang/cowork-with"
+      "description": "Jira agile workflow plugin. Issue tracking, sprint management, and automated task lifecycle via Atlassian acli CLI.",
+      "version": "1.0.0"
     }
   ]
 }
