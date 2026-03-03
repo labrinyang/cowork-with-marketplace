@@ -4,8 +4,10 @@ Plugin marketplace for the **cowork-with** family of Claude Code plugins.
 
 ## Add this marketplace
 
-```bash
-claude /plugin marketplace add github:labrinyang/cowork-with-marketplace
+Run inside Claude Code:
+
+```
+/plugin marketplace add labrinyang/cowork-with-marketplace
 ```
 
 ## Available plugins
@@ -16,10 +18,10 @@ claude /plugin marketplace add github:labrinyang/cowork-with-marketplace
 
 ## Install a plugin
 
-After adding the marketplace:
+After adding the marketplace, run inside Claude Code:
 
-```bash
-claude plugin add cowork-with@cowork-with-marketplace
+```
+/plugin install cowork-with@cowork-with-marketplace
 ```
 
 ## Roadmap
