@@ -16,7 +16,7 @@
         "url": "https://github.com/labrinyang/cowork-with.git"
       },
       "description": "Jira and Confluence workflow plugin. Issue tracking, wiki documentation, sprint management, and automated task lifecycle via Atlassian Rovo MCP server.",
-      "version": "2.1.0"
+      "version": "2.1.1"
     }
   ]
 }
