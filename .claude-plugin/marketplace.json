@@ -16,7 +16,7 @@
         "url": "https://github.com/labrinyang/cowork-with.git"
       },
       "description": "Connect PM, Dev, and QA context in AI-native development. Jira issues, Confluence docs, and code in one workflow loop.",
-      "version": "2.1.1"
+      "version": "2.1.2"
     }
   ]
 }
