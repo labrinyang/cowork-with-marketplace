@@ -16,7 +16,7 @@
         "url": "https://github.com/labrinyang/cowork-with.git"
       },
       "description": "Connect PM, Dev, and QA context in AI-native development. Jira issues, Confluence docs, Figma designs, and code in one workflow loop.",
-      "version": "2.4.1"
+      "version": "2.4.2"
     }
   ]
 }
